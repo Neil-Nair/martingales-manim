@@ -1,0 +1,32 @@
+# Manim render output
+media/
+*.mp4
+*.mov
+*.gif
+*.png
+*.svg
+
+# Scratch / experiment files
+cheese.py
+main.py
+manimcourse.py
+presentation.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*

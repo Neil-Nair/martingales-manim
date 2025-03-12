@@ -1,0 +1,6 @@
+# simulations/
+numpy>=1.24
+matplotlib>=3.7   # only for `python -m simulations.verify --plot`
+
+# animations/ (also needs FFmpeg and a LaTeX distribution)
+manim>=0.18
